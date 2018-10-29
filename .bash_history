@@ -1,17 +1,3 @@
-bash string2.sh 2 3
-bash string2.sh 
-nano string2.sh
-bash string2.sh 
-nano string2.sh
-bash string2.sh 
-man date
-date %a
-echo date + "%A"
-echo date 
-echo "date" 
-date
-date + "%A"
-date + '%A'
 date +'%A'
 date +'%a'
 nano string3.sh
@@ -498,3 +484,17 @@ nano readme.md
 cat readme.txt
 cat readme1.txt
 ls
+ls
+cat readme1.txt.txt
+chmod 777 readme1.txt
+chmod 777 readme1.txt.txt
+cat readme1.txt.txt
+nano readme1.txt.txt
+nano readme.md
+cat readme1.txt.txt >> readme.md
+nano readme.md
+git add -A
+git commit -m "added readme.md"
+git push
+git rm --cached git-excercise
+git add -A
