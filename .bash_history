@@ -1,6 +1,3 @@
-date +'%A'
-date +'%a'
-nano string3.sh
 bash string3.sh
 nano string3.sh
 bash string3.sh
@@ -498,3 +495,6 @@ git commit -m "added readme.md"
 git push
 git rm --cached git-excercise
 git add -A
+git add -A
+git commit -m "added readme.md"
+git push
